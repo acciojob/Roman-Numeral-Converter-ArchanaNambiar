@@ -34,3 +34,6 @@ function convertToRoman(num) {
 // Test cases
 // console.log(convertToRoman(36)); // Output: 'XXXVI'
 // console.log(convertToRoman(1984)); // Output: 'MCMLXXXIV'
+
+// do not edit below this line
+module.exports = convertToRoman
